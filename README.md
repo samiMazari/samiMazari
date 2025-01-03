@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**samiMazari/samiMazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Mohamed Sami Mazari! 👋
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working as a **Junior Data Scientist**.
+- 🌱 I’m learning and exploring **data science** and **machine learning**.
+- 📚 I also share insights about **data** on my [Instagram page](https://instagram.com/Actualytics).
+- ⚡ Fun fact: I enjoy working on interesting data problems and creating data visualizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Tools
+- **Languages:** Python, SQL
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Other Tools:** Git, Jupyter Notebooks, Power BI
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mohamed-sami-mazari/)
+  
+
+
