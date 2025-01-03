@@ -8,8 +8,8 @@
 - ⚡ Fun fact: I enjoy working on interesting data problems and creating data visualizations.
 
 ## Skills & Tools
-- **Languages:** Python, SQL
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib
+- **Languages:** Python, SQL, SAS, R, Excel
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Sea-born
 - **Other Tools:** Git, Jupyter Notebooks, Power BI
 
 ## Connect with Me
