@@ -10,7 +10,7 @@
 ## Skills & Tools
 - **Languages:** Python, SQL, SAS, R, Excel
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Sea-born
-- **Other Tools:** Git, Jupyter Notebooks, Power BI
+- **Other Tools:** Git, Jupyter Notebooks.
 
 ## Connect with Me
 - On my [LinkedIn](https://www.linkedin.com/in/mohamed-sami-mazari/)
