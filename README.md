@@ -9,7 +9,7 @@
 
 ## Skills & Tools
 - **Languages:** Python, SQL, SAS, R, Excel
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Sea-born
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Sea-born..
 - **Other Tools:** Git, Jupyter Notebooks.
 
 ## Connect with Me
