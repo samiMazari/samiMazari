@@ -3,7 +3,7 @@
 
 ## About Me
 - 🔭 I’m currently Student at Paris-Est Creteil university and a **Junior Data Scientist**..
-- 🌱 I’m learning and exploring **data science** and **machine learning**.
+- 🌱 I’m learning and exploring **data science** and **machine learning**..
 - 📚 I also share insights about **data** on my [LinkedIn page](https://www.linkedin.com/in/mohamed-sami-mazari/).
 - ⚡ Fun fact : I enjoy working on interesting data problems and creating data visualizations...
 
